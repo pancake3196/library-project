@@ -14,7 +14,7 @@
 - **아이디/비밀번호 찾기**: 이메일 인증을 통해 잃어버린 계정 정보를 복구할 수 있습니다.  
 
 #### 예시 화면
-![회원가입 및 로그인 화면]([./images/signup_login.png](https://github.com/pancake3196/library-project/blob/main/images/signup_login.png.png))
+![회원가입 및 로그인 화면]([./images/signup_login.png))
 
 ---
 
