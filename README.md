@@ -21,15 +21,6 @@
 #### 예시 화면
 ![도서 검색 화면](https://github.com/pancake3196/library-project/blob/main/images/loan_return.png.png)
 
----
-
-## 기술 스택
-
-### 개발 언어 및 기술
-- **프론트엔드**: JSP (Java Server Pages)
-- **백엔드**: Oracle Database, Java
-- **데이터베이스**: Oracle
-- **빌드 도구**: Maven
 
 ---
 
