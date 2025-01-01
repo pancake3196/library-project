@@ -24,8 +24,7 @@
 - **도서 대출**: 대출 가능한 도서를 선택하여 대출 요청을 할 수 있습니다.  
 
 #### 예시 화면
-![도서 검색 화면](./images/book_search.png)
-
+![대출 및 반납 시스템](https://github.com/pancake3196/library-project/blob/main/images/book_search.png.png)
 ---
 
 ### 3. 대출 및 반납 관리 시스템
@@ -34,7 +33,7 @@
 - **대출 상태 관리**: 대출 기한과 연체 여부를 자동으로 확인합니다.
 
 #### 예시 화면
-![대출 및 반납 시스템](./images/loan_return.png)
+![도서 검색 화면](https://github.com/pancake3196/library-project/blob/main/images/loan_return.png.png)
 
 ---
 
